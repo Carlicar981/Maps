@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity"
+    >
+    <item android:id="@+id/julian"
+        android:title="JULIAN"
+        android:orderInCategory="100">
+    </item>
+    <item android:id="@+id/syndey"
+        android:title="SYNDEY"
+        android:orderInCategory="100">
+
+    </item>
+
+        </menu>
+
+
